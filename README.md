@@ -22,12 +22,7 @@ Bu depo, Cisco Packet Tracer kullanılarak oluşturulmuş üniversiteler arası 
 ## 📂 Dosyalar
 
 - `21253506.pkt` → Cisco Packet Tracer dosyası
-- `VideoLink.docx` → Proje açıklaması ve video linki
 - `ekran_goruntusu.png` → Ağ topolojisinin ekran görüntüsü
-
-## 🎥 Video Anlatım
-
-[🔗 Proje Videosu](https://drive.google.com/drive/folders/11iviorddfa9sVoJWGwa_X_jTty-LWU8Y?usp=sharing)
 
 ## 💡 Açmak İçin
 
